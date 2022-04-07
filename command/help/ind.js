@@ -89,9 +89,6 @@ exports.menu = (prefix, salam, pushname) => {
 ├ *Owner*
 │ • ${prefix}broadcast [text]
 │ • ${prefix}leave
-│ • >
-│ • $
-│ •  => 
 │
 ├ *Group*
 │ • ${prefix}antilink 1 / 0
