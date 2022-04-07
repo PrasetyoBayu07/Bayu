@@ -53,6 +53,7 @@ exports.welcome = () => {
 ⌯ָ   ֙Nick :
 ⌯ָ   ֙Kelamin :
 ⌯ָ   ֙Domisil :
+⌯ָ   ֙֙֙֙֙֙֙֙֙֙֙֙֙֙֙֙֙֙֙֙֙֙֙֙֙֙֙֙֙֙֙֙Kenapa Malam Gelap :
 ╰─ ᝬ _Patuhi Rules Group Ya_  >_<`;
 };
 exports.leave = () => {
